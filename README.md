@@ -1,1 +1,3 @@
-# automatic-engine
+# forwards webhook
+
+must be run locally
